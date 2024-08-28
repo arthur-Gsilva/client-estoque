@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils"
 import { Navbar } from "@/components/Navbar";
 import { Header } from "@/components/Header";
 import { ThemeProvider } from "@/components/Theme-Providers";
-import { MenuContext } from "@/contexts/menuContext";
+import { MenuContext } from "@/contexts/MenuContext";
 import { useState } from "react";
  
 const fontSans = FontSans({

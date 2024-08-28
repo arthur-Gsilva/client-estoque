@@ -5,7 +5,7 @@ import { FaRegUser } from "react-icons/fa";
 import { IoSettingsOutline } from "react-icons/io5";
 import { RiMoneyDollarCircleLine } from "react-icons/ri";
 import { useContext } from "react";
-import { MenuContext } from "@/contexts/menuContext";
+import { MenuContext } from "@/contexts/MenuContext";
 import { Button } from "./ui/button";
 import { TiThMenu } from "react-icons/ti";
 

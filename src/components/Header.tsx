@@ -5,7 +5,7 @@ import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { ThemeToggle } from "./theme-toggle";
 import { useContext } from "react";
-import { MenuContext } from "@/contexts/menuContext";
+import { MenuContext } from "@/contexts/MenuContext";
 
 export const Header = () => {
 
